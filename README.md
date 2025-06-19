@@ -1,7 +1,15 @@
-Code Availability Statement
+🔓 Code Availability Statement
+The code associated with the manuscript titled
+"Single-Layer ViT with Multi-Scale Division-of-Labor Mechanism Enhances Brain Age Estimation and Fine-Grained Interpretability"
+is currently not publicly available.
 
-The code associated with this project is currently not publicly available. However, upon the acceptance of the manuscript titled "BRAIN: A Balanced Region-Aware Interpretative Network for Brain Age Estimation" for publication, the full code will be made publicly accessible in this repository.
+🧠 Aim
+Upon submission of the manuscript for peer-reviewed publication, we will make the full codebase publicly accessible in this repository. Our goal is to promote transparency, reproducibility, and further exploration in the field of brain age estimation and interpretable medical imaging. By releasing this implementation, we hope to facilitate comparative studies, support clinical AI tool development, and encourage innovation in Vision Transformer–based analysis of neuroimaging data.
 
-We aim to provide open access to the model and its associated tools to encourage reproducibility and further research in the field of brain age prediction. Once available, the code will include detailed instructions for installation, training, and evaluation.
+📦 What Will Be Included
+Once released, the repository will include:
+1. Full implementation of the OPE-SLViT model
+2. Training & evaluation scripts
+3. Voxel-level interpretability visualization pipeline
 
-Thank you for your patience and understanding.
+We thank you for your patience and interest. Please stay tuned for updates.
