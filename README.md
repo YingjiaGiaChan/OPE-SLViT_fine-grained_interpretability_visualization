@@ -1,6 +1,6 @@
 🔓 Code Availability Statement
 The code associated with the manuscript titled
-"Single-Layer ViT with Multi-Scale Division-of-Labor Mechanism Enhances Brain Age Estimation and Fine-Grained Interpretability"
+"Orthogonal Patch-Enhanced Single-Layer Vision Transformer for Brain Age Estimation with Fine-Grained Interpretability"
 is currently not publicly available.
 
 🧠 Aim
